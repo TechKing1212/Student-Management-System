@@ -36,7 +36,7 @@ VALUES ('admin', 'admin123');
 -- Step 5: (Optional) Insert some sample students for the chart demo
 INSERT INTO students (name, attendance, sub1, sub2, sub3, sub4, sub5) VALUES
 ('Vidushi Rawat',  92, 88, 76, 91, 85, 79),
-('Rachit Singhal', 85, 72, 68, 80, 77, 83),
+('Shreyansh Jaiswal', 85, 72, 68, 80, 77, 83),
 ('Sarthak Jain',   78, 65, 70, 74, 69, 72),
 ('Sample Student', 90, 95, 92, 88, 97, 90);
 
